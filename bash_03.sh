@@ -4,3 +4,5 @@ echo "enter a number"
 read number
 echo "your number is $number"
 echo "lets do math"
+echo "number"
+
